@@ -1,2 +1,2 @@
-'Simon Game' pattern recognition completed as part of web development bootcamp. 
+'Simon Game' pattern recognition game with sound, completed as part of web development bootcamp. 
 
